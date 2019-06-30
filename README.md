@@ -6,3 +6,4 @@
     ```pip install -r requirements.txt --user```
 0. 最后输入```flask run```
 0. cmd中会回显出 http://127.0.0.1:5000
+0. 以http://127.0.0.1:5000代替原来的https://api.douban.com即可
