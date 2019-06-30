@@ -1,0 +1,9 @@
+.idea/ 
+miniapi/config/
+__pycache__/
+secure.py
+admin.py
+Admin.py
+migrations/
+static/
+*.conf
